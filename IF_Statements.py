@@ -1,8 +1,10 @@
+#Comparison Operators
 x = 5
 y = 3
 if x > y:
   print("X is greater than Y")
 
+#Arithmetic Operators
 a = 8
 b = 2
 if(a % b == 0):
